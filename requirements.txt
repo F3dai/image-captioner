@@ -1,0 +1,6 @@
+torch==2.7.0
+torchvision==0.22.0
+transformers==4.51.3
+spacy==3.8.5
+pillow==11.2.1
+tqdm==4.67.1
